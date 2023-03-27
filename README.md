@@ -1,3 +1,5 @@
+  <pre>It's 2 AM, I Got The Inspiration To Create Something Like This I Don't Even
+ Know Why I Wrote This Module, Anyway it took me 4 Minutes, But Deployment took 30 mins cuz i forgot the password, anyway, i hope that Lebanon will recover, Adda w 2Doud <3 </pre>
   <h1>Live Lira Price and Sayrafa Price</h1>
 
   <p>This is a simple Python module to get the current Lira price and Sayrafa price in USD. You can use this module in your Python applications or by making requests to example.com.</p>
