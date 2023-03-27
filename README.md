@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="UTF-8">
-  <title>Live Lira Price and Sayrafa Price</title>
-</head>
-
-<body>
-
   <h1>Live Lira Price and Sayrafa Price</h1>
 
   <p>This is a simple Python module to get the current Lira price and Sayrafa price in USD. You can use this module in your Python applications or by making requests to example.com.</p>
@@ -43,11 +33,5 @@
   <p>If you prefer to make requests to example.com, you can use the following endpoints:</p>
 
   <ul>
-    <li><code>example.com/price</code> - returns the current Lira price in USD</li>
-    <li><code>example.com/sayrafa</code> - returns the current Sayrafa price in USD</li>
-    <li><code>example.com/json</code> - returns a JSON object containing both prices</li>
+    <li><code>example.com/</code> - returns a JSON object containing both prices</li>
   </ul>
-
-</body>
-
-</html>
