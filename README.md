@@ -2,7 +2,7 @@
  Know Why I Wrote This Module, Anyway it took me 4 Minutes, But Deployment took 30 mins cuz i forgot the password, anyway, i hope that Lebanon will recover, Adda w 2Doud <3 </pre>
   <h1>Live Lira Price and Sayrafa Price</h1>
 
-  <p>This is a simple Python module to get the current Lira price and Sayrafa price in USD. You can use this module in your Python applications or by making requests to example.com.</p>
+  <p>This is a simple Python module to get the current Lira price and Sayrafa price in USD</p>
 
   <h2>Installation</h2>
 
@@ -32,9 +32,3 @@
   <h2>Integration</h2>
 
   <p>You can integrate this module into your own applications by importing the <code>addedollar</code> module and using the functions as described above.</p>
-
-  <p>If you prefer to make requests to example.com, you can use the following endpoints:</p>
-
-  <ul>
-    <li><code>example.com/</code> - returns a JSON object containing both prices</li>
-  </ul>
