@@ -25,6 +25,7 @@
   <ul>
     <li><code>addedollar.price()</code> - returns the current Lira price in USD</li>
     <li><code>addedollar.sayrafa()</code> - returns the current Sayrafa price in USD</li>
+    <li><code>addedollar.update()</code> - updates dollar/sayrafa prices, recommended to run it every 10 minutes</li>
     <li><code>addedollar.json()</code> - returns a JSON object containing both prices</li>
   </ul>
 
